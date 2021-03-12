@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>chromatic.png</file>
+    <file>color.png</file>
+  </qresource>
+</RCC>
